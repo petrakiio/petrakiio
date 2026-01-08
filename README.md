@@ -1,40 +1,63 @@
-## Olá, eu sou o Pedro (petrakiio) 👋
-
 <div align="center">
-  <img src="picture" alt="Pedro" width="150" style="border-radius: 50%;">
 
-  <br>
+<!-- Avatar -->
+<img
+  src="img.jpeg"
+  alt="Pedro"
+  width="120"
+  style="
+    border-radius: 50%;
+    border: 3px solid #3776AB;
+    box-shadow: 0 0 12px rgba(55,118,171,0.45);
+  "
+/>
+>
+
+<h2>Olá, eu sou o Pedro <i>(petrakiio)</i> 👋</h2>
+
+<p>
+  Desenvolvedor <b>Back-end Python</b> focado em <b>lógica</b>, <b>segurança</b> e <b>automação</b>.
+</p>
+
+<!-- Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=petrakiio&color=3776AB&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Developer-0d1117?style=flat-square" />
+</p>
+
+
+
 </div>
 
-### 🚀 Sobre mim
-- 🎓 Cursando o **2º ano do Ensino Médio com Técnico** na ETEC.
-- 👨‍💻 Desenvolvedor **Back-end Python** focado em lógica e segurança.
-- 🏗️ Atualmente desenvolvendo o **ChatEat**, um projeto de estudos de back-end com **Flask** e **MySQL**.
-- 📚 Iniciando em breve os estudos em **JavaScript**.
-- 👤 Pronomes: Ele / Dele.
+---
+
+## 🚀 Sobre mim
+- 🎓 **Educação:** 2º ano do Ensino Médio Técnico – **ETEC**
+- 👨‍💻 **Área:** Back-end com **Python**
+- 🛡 **Especialidade:** Segurança, lógica e sistemas
+- 🏗 **Projeto Atual:** **ChatEat** (Flask + MySQL)
+- 📚 **Estudando:** JavaScript
+- 👤 **Pronomes:** Ele / Dele
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
-
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn-icons-png.freepik.com/256/11766/11766091.png?semt=ais_white_label">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+## 🛠 Tecnologias & Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,flask,mysql,sqlite,html,css,git&theme=dark" />
+</p>
 
 ---
 
-### 📩 Contato e Freelas
-- **WhatsApp:** (16) 99312-0942
-- **Discord:** `petrakiio_`
-- **Disponível para pequenos projetos e automações.**
+## 📩 Contato & Freelas
+| Plataforma | Contato |
+|----------|---------|
+| 📱 **WhatsApp** | [16 99312-0942](https://wa.me/5516993120942) |
+| 🎮 **Discord** | `petrakiio_` |
+| 🟢 **Status** | Disponível para projetos e automações |
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrakiio&theme=dracula" alt="GitHub Streak" />
+  <i>“Código limpo, lógica sólida e segurança em primeiro lugar.”</i>
 </div>
