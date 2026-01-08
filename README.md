@@ -1,7 +1,9 @@
 ## Olá, eu sou o Pedro (petrakiio) 👋
 
 <div align="center">
-  <img src="picture" alt="minha foto" height="180em" />
+  <img src="picture" alt="Pedro" width="150" style="border-radius: 50%;">
+
+  <br>
 </div>
 
 ### 🚀 Sobre mim
@@ -17,10 +19,11 @@
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="SQL" height="40" width="50" src="https://cdn-icons-png.freepik.com/256/11766/11766091.png?semt=ais_white_label">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
 ---
