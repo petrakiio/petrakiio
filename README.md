@@ -1,16 +1,37 @@
-## Hi there 👋
+## Olá, eu sou o Pedro (petrakiio) 👋
 
-<!--
-**petrakiio/petrakiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=petrakiio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
+</div>
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+- 🎓 Cursando o **2º ano do Ensino Médio com Técnico** na ETEC.
+- 👨‍💻 Desenvolvedor **Back-end Python** focado em lógica e segurança.
+- 🏗️ Atualmente desenvolvendo o **ChatEat**, um projeto de estudos de back-end com **Flask** e **MySQL**.
+- 📚 Iniciando em breve os estudos em **JavaScript**.
+- 🏳️‍🌈 Pronomes: **Ele/Dele**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+</div>
+
+---
+
+### 📩 Contato e Freelas
+- **WhatsApp:** (16) 99312-0942
+- **Discord:** `petrakiio_`
+- **Disponível para pequenos projetos e automações.**
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=petrakiio&theme=dracula" alt="GitHub Streak" />
+</div>
