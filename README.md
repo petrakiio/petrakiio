@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro (petrakiio) 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petrakiio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Status do GitHub" height="180em" />
+  <img src="picture" alt="minha foto" height="180em" />
 </div>
 
 ### 🚀 Sobre mim
@@ -9,7 +9,7 @@
 - 👨‍💻 Desenvolvedor **Back-end Python** focado em lógica e segurança.
 - 🏗️ Atualmente desenvolvendo o **ChatEat**, um projeto de estudos de back-end com **Flask** e **MySQL**.
 - 📚 Iniciando em breve os estudos em **JavaScript**.
-- 🏳️‍🌈 Pronomes: **Ele/Dele**.
+- 👤 Pronomes: Ele / Dele.
 
 ---
 
