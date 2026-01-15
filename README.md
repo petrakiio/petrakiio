@@ -30,7 +30,7 @@
 
 ## 🛠 Tecnologias & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,flask,js,mysql,html,css,git&theme=dark" />
 </p>
 
 ---
