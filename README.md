@@ -47,28 +47,54 @@
 
 ---
 
-### 🐍 Commit Snake (roxa 😈)
+### 💻 Coding Vibes
 <div align="center">
-  <img src="https://raw.githubusercontent.com/petrakiio/petrakiio/output/github-contribution-grid-snake-dark.svg" />
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img height="180" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
+
+### ⚡ Atividade no GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrakiio&theme=tokyo-night" />
+</div>
+
 
 ---
 
 ### 📩 Contato
 <table align="center">
   <tr>
-    <td><b>WhatsApp</b></td>
-    <td><a href="https://wa.me/5516993120942">(16) 99312-0942</a></td>
-  </tr>
-  <tr>
-    <td><b>LinkedIn</b></td>
-    <td><a href="https://www.linkedin.com/in/petrakiio/">linkedin.com/in/petrakiio</a></td>
-  </tr>
-  <tr>
-    <td><b>Status</b></td>
-    <td><code>Disponível para Estágio & Freelas</code></td>
+    <td align="center">
+      <a href="https://wa.me/5516993120942" target="_blank">
+        <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" /><br>
+        <b>WhatsApp</b>
+      </a>
+    </td>
+
+   <td align="center">
+  <a href="https://www.linkedin.com/in/petrakiio/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
+  </a><br>
+  <b>LinkedIn</b>
+</td>
+
+<td align="center">
+  <a href="https://discord.com/users/1325631694773944320" target="_blank">
+    <img src="https://img.icons8.com/color/48/discord--v1.png" alt="Discord" />
+  </a><br>
+  <b>Discord</b>
+</td>
+
+<td align="center">
+  <img src="https://img.icons8.com/color/48/checked--v1.png" alt="Status" /><br>
+  <b>Status</b><br>
+  <code>Disponível para Estágio & Freelas</code>
+</td>
+
   </tr>
 </table>
+
+
 
 ---
 
