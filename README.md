@@ -40,8 +40,8 @@
 |----------|---------|
 | 📱 **WhatsApp** | [16 99312-0942](https://wa.me/5516993120942) |
 | 🎮 **Discord** | `petrakiio_` |
-| 🟢 **Status** | Disponível para projetos e automações |
 |**Linkedin** | https://www.linkedin.com/in/petrakiio/ |
+| 🟢 **Status** | Disponível para projetos e automações |
 
 ---
 
