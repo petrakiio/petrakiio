@@ -33,16 +33,12 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=petrakiio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</div>
 
 ---
 
 ### 🛠 Tecnologias
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,mysql,js,html,css,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,flask,mysql,js,html,css,git,linux,vscode&theme=dark" />
 </div>
 
 ---
