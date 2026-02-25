@@ -53,10 +53,15 @@
 ✔️ CRUD completo  
 ✔️ Projeto real de back-end  
 
-🔗 **Repositório:**  
-https://github.com/petrakiio/chateat
+<br>
 
-🟡 **Status:** pronto localmente — deploy em preparação
+<a href="https://github.com/petrakiio/APIs/tree/master/Projetos-Flask/ChatEat" target="_blank">
+  <img src="https://img.shields.io/badge/Ver%20Repositório-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+🟡 <b>Status:</b> pronto localmente — deploy em preparação
 
 </div>
 
