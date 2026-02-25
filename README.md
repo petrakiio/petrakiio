@@ -18,21 +18,19 @@
 ---
 
 ### 🚀 Sobre mim
-- 🎓 **Ensino Médio Técnico – ETEC** (2º ano, cursando)
-- 👨‍💻 **Back-end Developer**
-- ⚙️ **Foco:** APIs REST, lógica de sistemas e automações
-- 🏗️ **Projeto principal:** **ChatEat** (Flask + MySQL) *(em desenvolvimento)*
-- 📚 **Estudando:** JavaScript e Banco de Dados Relacionais
+- 🎓 **Ensino Médio Técnico – ETEC** (2º ano, cursando)  
+- 👨‍💻 **Back-end Developer**  
+- ⚙️ **Foco:** APIs REST, lógica de sistemas e automações  
+- 📚 **Estudando:** JavaScript e Banco de Dados Relacionais  
+- 🎯 **Objetivo:** conquistar minha primeira oportunidade como dev  
 
 ---
 
-### 🧠 Linguagens mais utilizadas
+### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrakiio&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=petrakiio&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
 
 ---
 
@@ -43,54 +41,47 @@
 
 ---
 
+### 🌟 Projeto em destaque
+
+<div align="center">
+
+## 🍔 ChatEat  
+**Sistema de pedidos com Flask + MySQL**
+
+✔️ API REST estruturada  
+✔️ Integração com banco relacional  
+✔️ CRUD completo  
+✔️ Projeto real de back-end  
+
+🔗 **Repositório:**  
+https://github.com/petrakiio/chateat
+
+🟡 **Status:** pronto localmente — deploy em preparação
+
+</div>
+
+---
+
 ### 💻 Coding Vibes
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
   <img height="180" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
-### ⚡ Atividade no GitHub
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=petrakiio&theme=tokyo-night" />
-</div>
-
-
 ---
 
 ### 📩 Contato
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://wa.me/5516993120942" target="_blank">
-        <img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" /><br>
-        <b>WhatsApp</b>
-      </a>
-    </td>
+<div align="center">
 
-   <td align="center">
-  <a href="https://www.linkedin.com/in/petrakiio/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
-  </a><br>
-  <b>LinkedIn</b>
-</td>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-8b5cf6?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5516993120942)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petrakiio/)
+[![Discord](https://img.shields.io/badge/Discord-8b5cf6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1325631694773944320)
 
-<td align="center">
-  <a href="https://discord.com/users/1325631694773944320" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord--v1.png" alt="Discord" />
-  </a><br>
-  <b>Discord</b>
-</td>
+<br><br>
 
-<td align="center">
-  <img src="https://img.icons8.com/color/48/checked--v1.png" alt="Status" /><br>
-  <b>Status</b><br>
-  <code>Disponível para Estágio & Freelas</code>
-</td>
+**🟢 Disponível para Estágio & Freelas**
 
-  </tr>
-</table>
-
-
+</div>
 
 ---
 
